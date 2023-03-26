@@ -2,7 +2,7 @@
 <b><br><font face="Arial"><h1 style="font-size: 4rem">:sunglasses: I'm Yogender Yadav  </p></br></font></h1>
 # 💫 About Me:
 <br>- 🔭 I’m currently doing B.tech from VIT Vellore.
-<br>- 🌱 I’m currently learning deep and neural learning.
+<br>- 🌱 I’m currently working on deep and neural learning.
 <br>- 👯 I’m looking to collaborate ml projects.
 <br>- 🥅 2023 Goals: To learn more about ADAS and Robotics.
 <br>- ⚡ Ask me about:  Machine Learning.
